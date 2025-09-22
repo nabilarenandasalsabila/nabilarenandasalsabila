@@ -7,10 +7,7 @@
 - 💡 Curious about **earth exploration, science, and technology**  
 - ⚡ Fun fact: I love combining **science and creativity** in projects!  
 
-[](images/WhatsApp Image 2025-09-22 at 13.45.06.png)
-
-
-
+(file:///C:/Users/ASUS/nabilarenandasalsabila/p03-dasar-dasar-git-nabilarenandasalsabila/images/WhatsApp%20Image%202025-09-22%20at%2013.45.06.jpeg)
 ---
 
 ### 🔭 What I'm Working On
