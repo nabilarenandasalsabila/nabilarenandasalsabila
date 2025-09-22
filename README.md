@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Nabila Renanda Salsabila  
 
+<p align="center">
+  <img src="https://drive.google.com/file/d/1UJ6b0-T_1q8LMu8rHizaWHD-OMhpufNa/view?usp=drive_link" alt="Nabila's Profile Photo" width="200" style="border-radius:50%" />
+</p>
+
 ### 🎓 About Me
 - 🌍 From **Sleman, DIY Yogyakarta**  
 - 📚 Currently studying **Geophysics (S1)** at Universitas Gadjah Mada  
