@@ -1,5 +1,6 @@
 # 👋 Hi, I'm Nabila Renanda Salsabila  
 
+![Image](https://github.com/user-attachments/assets/863d197e-05fc-49bd-8bb4-5f80c8c3433b)
 
 ### 🎓 About Me
 - 🌍 From **Sleman, DIY Yogyakarta**  
@@ -7,7 +8,6 @@
 - 💡 Curious about **earth exploration, science, and technology**  
 - ⚡ Fun fact: I love combining **science and creativity** in projects!  
 
-(file:///C:/Users/ASUS/nabilarenandasalsabila/p03-dasar-dasar-git-nabilarenandasalsabila/images/WhatsApp%20Image%202025-09-22%20at%2013.45.06.jpeg)
 ---
 
 ### 🔭 What I'm Working On
