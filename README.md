@@ -1,3 +1,11 @@
+# 📑 REPORT HASIL ASSIGNMENT PRAKTIKUM METODE KOMPUTASI ACARA 3
+
+---
+
+- **Nama**  : Nabila Renanda Salsabila  
+- **NIM**   : 24/535005/PA/22695  
+
+
 ### Pada pertemuan kemarin kita mempelajari apa itu GitHub dan VSCode
 ### GitHub adalah platform berbasis web untuk hosting dan mengelola repositori Git. Ini memungkinkan pengembang untuk menyimpan, melacak, dan berkolaborasi dalam proyek perangkat lunak. Dengan fitur seperti version control system (VCS), GitHub di gunakan untuk mempermudah pengelolaan kode sumber dan kolaborasi tim.
 ### Sedangkan Visual Studio Code (VS Code) adalah editor kode sumber ringan dan canggih yang dikembangkan oleh Microsoft. VS Code mendukung berbagai bahasa pemrograman, memiliki fitur debugging terintegrasi, serta terminal bawaan.
